@@ -56,4 +56,4 @@ async def report(*,msg:str):
     await client.send_message(channel,ptext)
     await client.send_message(channel,msg)
 #https://discord.gg/C9UNnG
-client.run('NTQzODU4OTc4NDcyMzI5MjI2.D0DzxA.2P_yxNxrogzaEEcPpUKaVpBSVqg')
+client.run('NTQzODU4OTc4NDcyMzI5MjI2.D0GLzg.09qRo9CHW8StNjOIZ36cOxLg_yw')
